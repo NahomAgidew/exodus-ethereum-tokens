@@ -389,6 +389,17 @@
     "color": "#00CFF2"
   },
   {
+    "name": "kriscoin",
+    "properName": "KrisCoin",
+    "decimals": 18,
+    "displayUnit": "KRI",
+    "blockExplorer": "0xeef8102a0d46d508f171d7323bceffc592835f13",
+    "addresses": {
+      "current": "0xeef8102A0D46D508f171d7323BcEffc592835F13"
+    },
+    "color": "#FD72BF"
+  },
+  {
     "name": "kucoin",
     "properName": "KuCoin",
     "decimals": 6,
